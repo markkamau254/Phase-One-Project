@@ -66,7 +66,7 @@ To use this repo, follow these steps:
 
   
 ## **You can check the deployed website by clicking the live link below** 👇 
-[Movie Ticket Bokking Website ](https://markkamau254.github.io/Code-Challenge-3/)
+[Movie Ticket Bokking Website ](https://markkamau254.github.io/Phase-One-Project/)
 
 ##**Author**
 Mark Kamau
