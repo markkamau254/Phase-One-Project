@@ -1,4 +1,4 @@
-# *Movie Ticket Booking Website*
+# *Image Generator Website*
 
 
 ## **Description** :
